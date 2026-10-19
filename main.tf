@@ -1,3 +1,3 @@
 resource "vpc" "name" {
-asshole
+assh
 }
